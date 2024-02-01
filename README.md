@@ -44,14 +44,6 @@ Run the analysis script:
 python analyze_quotes.py
 ```
 
-## Requirements
-Python 3.x
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
-```
-
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.

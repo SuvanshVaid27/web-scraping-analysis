@@ -18,9 +18,16 @@ analyze_quotes.py: Script for analyzing the stored quotes in the database.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/web-scraping-analysis.git
+git clone https://github.com/SuvanshVaid27/web-scraping-analysis.git
 cd web-scraping-analysis
 ```
+
+Create and activate virtual environment:
+```bash
+python3 -m venv web_scraper
+source web_scraper/bin/activate
+```
+
 Install dependencies:
 
 ```bash
